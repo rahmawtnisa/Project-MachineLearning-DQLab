@@ -64,7 +64,8 @@ Welcome to my repository! This project encapsulates my learning journey through 
 
 ## 📸 Project Preview
 
-![Mini Project Overview](images/mini_project_preview.png)
+![image](https://github.com/user-attachments/assets/230d16eb-6c0b-40ac-a97f-29462c635688)
+
 
 ---
 
